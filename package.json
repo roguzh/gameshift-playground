@@ -1,0 +1,17 @@
+{
+  "name": "gameshift-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.94.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
